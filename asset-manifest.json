@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CNPJ-Data-Lookup-System-with-React/static/css/main.288644fd.css",
+    "main.js": "/CNPJ-Data-Lookup-System-with-React/static/js/main.de12bac6.js",
+    "static/js/787.a3ab92d3.chunk.js": "/CNPJ-Data-Lookup-System-with-React/static/js/787.a3ab92d3.chunk.js",
+    "index.html": "/CNPJ-Data-Lookup-System-with-React/index.html",
+    "main.288644fd.css.map": "/CNPJ-Data-Lookup-System-with-React/static/css/main.288644fd.css.map",
+    "main.de12bac6.js.map": "/CNPJ-Data-Lookup-System-with-React/static/js/main.de12bac6.js.map",
+    "787.a3ab92d3.chunk.js.map": "/CNPJ-Data-Lookup-System-with-React/static/js/787.a3ab92d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288644fd.css",
+    "static/js/main.de12bac6.js"
+  ]
+}
